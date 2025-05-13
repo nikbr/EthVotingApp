@@ -1,12 +1,12 @@
 # React + TypeScript + Vite
 
-To run the front end, in the root directory run:
-
-npm run dev
-
-To deploy and test the contract, in ethereum-voting-contract run
-
-truffle develop
-compile
-migrate
-test
+To run the front end, in the root directory run:\n
+\n
+npm run dev\n
+\n
+To deploy and test the contract, in ethereum-voting-contract run\n
+\n
+truffle develop\n
+compile\n
+migrate\n
+test\n
