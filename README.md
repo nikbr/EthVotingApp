@@ -4,7 +4,7 @@ To run the front end, in the root directory run:
 
 npm run dev
 
-To deploy and test the contract run
+To deploy and test the contract, in ethereum-voting-contract run
 
 truffle develop
 compile
